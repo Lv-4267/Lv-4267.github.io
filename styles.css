@@ -1,0 +1,43 @@
+h1 { 
+ background-color:#E6E6FA;
+ font-family:Microgramma; 
+ font-style: normal;
+ font-size:50px 
+} 
+
+body { 
+ background-image: linear-gradient(white, #E6E6FA);
+ font-family:FOT-Rodin Pro DB;   
+ font-style: italic;
+ font-size:18px
+} 
+
+h2 { 
+ font-family:Microgramma; 
+ font-style: normal;
+ font-size:30px 
+ font-color:Black;
+}
+
+ p { 
+  font-family:FOT-Rodin Pro DB; 
+  font-style: italic;
+ font-size:18px
+ } 
+ 
+ nav a{ 
+ display:inline-block;
+ width:120px;
+ padding:25px;
+ background-color:#E6E6FA;
+ border-radius:12px;
+ text-align:center;  
+ box-shadow: 10px 10px 5px grey;
+ } 
+ 
+ #current{
+background-color:#8FBC8F; 
+font-family:FOT-Rodin Pro DB; 
+font-style:normal;
+font-color:f90f0e;
+}
